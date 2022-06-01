@@ -1,0 +1,3 @@
+This command instructs the kernel to mount the filesystem found on device (a partition, for example, that has been formatted with a filesystem type) at the directory dir, using all options. In this form, mount does not look in /etc/fstab for instructions.
+
+If only a directory or device is specified, for example.
